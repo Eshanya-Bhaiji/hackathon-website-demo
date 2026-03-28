@@ -5,8 +5,7 @@ Welcome to the CyberSec Hackathon official website! This website is designed to 
 
 🌐 Live Demo
 
-(If deployed on Netlify, GitHub Pages, or any other hosting platform, include the link here)
-Example: https://yourwebsite.netlify.app
+ chic-zabaione-a7f0b8.netlify.app
 
 🛠️ Technologies Used
 HTML5 – Structure and content of the website
